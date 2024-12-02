@@ -1,5 +1,6 @@
 def main():
-    print('What about you?')
+    print("What about you?")
 
-if __name__ == '__main__':
-         main()
+
+if __name__ == "__main__":
+    main()
